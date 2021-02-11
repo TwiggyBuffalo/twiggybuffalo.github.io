@@ -1,9 +1,3 @@
-<style>
-  #right-area img {
-    display: inline-block;
-  }
-</style>
-
 ## 👋 Hi There, I'm Daniel
 
 A Software Engineer from Cape Town, South Africa. Currently working remotely for 2021 while my fiancée tackles the COVID-19 pandemic 👩‍⚕️. I am currently working on an <a href="https://www.electronjs.org/">Electron</a> based E-learning product for <a href="https://lesssondesk.com">LessonDesk</a>. My WFH co-workers includes a Boerboel puppy named George and 2 cats, Joey and Phoebe. On weekends you can find me riding dirtbikes in the mountains and grabbing a cold one with my mates when uncle <a href="https://twitter.com/CyrilRamaphosa">@CyrilRamaphosa</a> allows us. I love tech and am keen as a bean to collaborate with you so please do get in touch.
