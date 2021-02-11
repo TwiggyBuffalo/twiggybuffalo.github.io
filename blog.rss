@@ -1,0 +1,22 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TwiggyBuffalo</title>
+  <subtitle>Futuristic typewriter operator</subtitle>
+  <link href="http://localhost:8080/blog.rss" rel="self"/>
+  <link href="http://localhost:8080"/>
+  <updated>2021-02-07T00:00:00Z</updated>
+  <id>http://localhost:8080</id>
+  <author>
+    <name>Daniel Curran</name>
+  </author>
+  
+  <entry>
+    <title>My blog goes live!</title>
+    <link href="http://localhost:8080/posts/2021/another-random-post/"/>
+    <updated>2021-02-07T00:00:00Z</updated>
+    <id>http://localhost:8080/posts/2021/another-random-post/</id>
+    <content type="html">&lt;p&gt;This year I will start blogging I swear it!&lt;/p&gt;
+</content>
+  </entry>
+</feed>
