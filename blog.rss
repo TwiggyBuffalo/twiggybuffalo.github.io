@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TwiggyBuffalo</title>
-  <subtitle>Futuristic typewriter operator</subtitle>
+  <subtitle>Senior Frontend Engineer</subtitle>
   <link href="http://localhost:8080/blog.rss" rel="self"/>
   <link href="http://localhost:8080"/>
   <updated>2021-02-07T00:00:00Z</updated>
